@@ -1,0 +1,18 @@
+h1,
+h2,
+a,
+.btn {
+  color: rgb(199, 27, 99);
+}
+
+body {
+  background: url(https://wallpaperaccess.com/full/4230678.jpg);
+}
+
+.btn {
+  background: black;
+  border-radius: black;
+}
+div .work {
+  padding: 25pxpx;
+}
