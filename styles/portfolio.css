@@ -5,14 +5,22 @@ a,
   color: rgb(199, 27, 99);
 }
 
-body {
-  background: url(https://wallpaperaccess.com/full/4230678.jpg);
-}
-
 .btn {
   background: black;
   border-radius: black;
 }
-div .work {
-  padding: 25pxpx;
+
+.work {
+  background: black;
+  padding: 160px 20px;
+}
+.work h1 {
+  font-size: 96px;
+}
+.work h2 {
+  font-size: 36px;
+}
+
+.colour {
+  background: black;
 }
