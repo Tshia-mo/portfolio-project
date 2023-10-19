@@ -1,11 +1,12 @@
 h1,
 h2,
-a,
+p,
 .btn {
-  color: rgb(199, 27, 99);
+  color: rgb(238, 38, 38);
 }
 
-.btn {
+.btn,
+body {
   background: black;
   border-radius: black;
 }
@@ -21,6 +22,9 @@ a,
   font-size: 36px;
 }
 
-.colour {
-  background: black;
+.navbar {
+  background: rgb(238, 38, 38);
+}
+a {
+  color: black;
 }
