@@ -7,7 +7,7 @@ p,
 
 .btn,
 body {
-  background: black;
+  background: white;
   border-radius: black;
 }
 
@@ -23,8 +23,23 @@ body {
 }
 
 .navbar {
-  background: rgb(238, 38, 38);
+  background: #925f5f;
 }
 a {
   color: black;
+}
+
+.aboutme img {
+  border-radius: 20px;
+}
+
+.navbar-toggler-icon {
+  color: black;
+}
+
+.source a {
+  color: #925f5f;
+}
+.email {
+  color: #925f5f;
 }
