@@ -1,18 +1,5 @@
-h1,
-h2,
-p,
-.btn {
-  color: rgb(238, 38, 38);
-}
-
-.btn,
-body {
-  background: white;
-  border-radius: black;
-}
-
 .work {
-  background: black;
+  background: rgb(19, 3, 248);
   padding: 160px 20px;
 }
 .work h1 {
@@ -20,13 +7,6 @@ body {
 }
 .work h2 {
   font-size: 36px;
-}
-
-.navbar {
-  background: #925f5f;
-}
-a {
-  color: black;
 }
 
 .aboutme img {
@@ -37,9 +17,6 @@ a {
   color: black;
 }
 
-.source a {
-  color: #925f5f;
-}
-.email {
-  color: #925f5f;
+body {
+  background: url(https://tse2.mm.bing.net/th?id=OIP.oTvhnrJTJM6WprcCk08CIQHaEl&pid=Api&P=0&h=220);
 }
