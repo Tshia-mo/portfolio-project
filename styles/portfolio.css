@@ -2,7 +2,8 @@
   background: rgb(19, 3, 248);
   padding: 160px 20px;
 }
-.work h1 {
+.work h1,
+.about {
   font-size: 96px;
 }
 .work h2 {
@@ -18,5 +19,5 @@
 }
 
 body {
-  background: url(https://tse2.mm.bing.net/th?id=OIP.oTvhnrJTJM6WprcCk08CIQHaEl&pid=Api&P=0&h=220);
+  background: url(black);
 }
