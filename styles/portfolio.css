@@ -45,7 +45,8 @@ a,
   background: #031630;
 }
 .nav-page,
-.box {
+.box,
+.icon {
   background: rgb(180, 176, 238);
 }
 .name,
@@ -59,4 +60,13 @@ a,
 .btn:hover {
   background: white;
   color: #031630;
+}
+
+.hero {
+  background: #031630;
+}
+.list {
+  display: flex;
+  gap: 1px;
+  list-style-type: none;
 }
