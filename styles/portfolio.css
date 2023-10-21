@@ -1,5 +1,5 @@
 .work {
-  background: rgb(19, 3, 248);
+  background: rgb(180, 176, 238);
   padding: 160px 20px;
 }
 .work h1,
@@ -10,7 +10,7 @@
   font-size: 36px;
 }
 
-.aboutme img {
+img {
   border-radius: 20px;
 }
 
@@ -19,5 +19,44 @@
 }
 
 body {
-  background: url(black);
+  background: #031630;
+}
+
+.project-tech-list {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+
+a,
+.contact-button {
+  color: rgb(180, 176, 238);
+}
+.social-links {
+  gap: 10px;
+}
+.contact-box,
+.primary-link {
+  background: rgb(180, 176, 238);
+  border-radius: 8px;
+}
+.contact-button,
+.sec-link {
+  background: #031630;
+}
+.nav-page,
+.box {
+  background: rgb(180, 176, 238);
+}
+.name,
+.intro {
+  color: #031630;
+}
+
+.pic {
+  border-radius: 150px;
+}
+.btn:hover {
+  background: white;
+  color: #031630;
 }
