@@ -1,6 +1,5 @@
 @media (max-width: 768px) {
-  .project-tech-list,
-  .intro {
+  .project-tech-list {
     display: flex;
     flex-direction: column;
   }
