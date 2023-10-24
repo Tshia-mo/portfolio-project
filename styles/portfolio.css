@@ -1,3 +1,11 @@
+@media (max-width: 768px) {
+  .project-tech-list,
+  .intro {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
 .work {
   background: rgb(180, 176, 238);
   padding: 160px 20px;
@@ -20,6 +28,7 @@ img {
 
 body {
   background: #031630;
+  justify-content: center;
 }
 
 .project-tech-list {
